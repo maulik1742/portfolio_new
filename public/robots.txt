@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://mauliksolanki.vercel.app/sitemap.xml

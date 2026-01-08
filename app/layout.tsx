@@ -18,6 +18,11 @@ export const metadata: Metadata = {
     "Maulik Solanki is a Full-Stack Developer with 3.5+ years of experience building scalable, high-performance web applications using React, Next.js, Node.js, and modern web technologies.",
   keywords: [
     "Maulik Solanki",
+    "@Maulik1742",
+    "Maulik1742",
+    "Portfolio",
+    "Maulik Portfolio",
+    "Maulik Solanki Portfolio",
     "Full Stack Developer",
     "React Developer",
     "Next.js Developer",
@@ -34,7 +39,7 @@ export const metadata: Metadata = {
     title: "Maulik Solanki | Full-Stack Developer Portfolio",
     description:
       "Explore projects, skills, and experience of Maulik Solanki — a Full-Stack Developer specializing in React, Next.js, and scalable web applications.",
-    url: "https://your-domain.com",
+    url: "https://mauliksolanki.vercel.app",
     siteName: "Maulik Solanki Portfolio",
     images: [
       {

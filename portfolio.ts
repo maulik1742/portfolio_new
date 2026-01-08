@@ -89,7 +89,7 @@ export const portfolioData = {
     {
       title: "Orafox",
       description:
-        "A smart visitor management system that simplifies check-ins, improves workplace security, and enables real-time visitor tracking.",
+        "A smart visitor management system that simplifies check-ins, improves security, and enables real-time visitor tracking.",
       image: "/images/orafox.png",
       link: "https://tradearth.in/",
     },
