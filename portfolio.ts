@@ -123,7 +123,7 @@ export const portfolioData = {
       schoolName: "M.L. Parmar college",
       subHeader: "Bachelor of Computer Application",
       duration: "April 2019 - March 2022",
-      desc: "Bachelor of Computer Application (BCA) from ML Parmar College, Bhavnagar, with a focus on computer science, programming, and IT applications.",
+      desc: "Bachelor of Computer Application (BCA) from ML Parmar College, Surat, with a focus on computer science, programming, and IT applications.",
       grade: "Grade A",
       descBullets: [],
     },
